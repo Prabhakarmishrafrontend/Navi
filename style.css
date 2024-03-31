@@ -1,0 +1,49 @@
+.head-main{
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 3rem;
+    color: brown;
+}
+
+.super-para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width: 200px;
+    height: 70px;
+    background-color: greenyellow;
+    font-family: monospace;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 33px;
+    cursor: pointer;
+    border-width: 4px;
+}
+
+#demo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    color: red;
+    font-weight: bold;
+}
